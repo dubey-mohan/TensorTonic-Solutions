@@ -22,6 +22,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Problem | Description | Link |
 |---|---|---|
 | Matrix Inverse | Compute a square matrix inverse in NumPy while returning no result for invalid, non-square, or singular inputs. | https://www.tensortonic.com/problems/matrix-inverse |
+| Continuity of Activation Functions | Classify continuity and nondifferentiable points for common activation functions at supplied scalar inputs. | https://www.tensortonic.com/study-plans/math-calculus/calculus-activation-continuity |
 | Limit of a Learning Rate Schedule | Evaluate the long-run limit of an inverse-time learning-rate schedule from its initial rate and decay constant. | https://www.tensortonic.com/study-plans/math-calculus/calculus-lr-schedule-limit |
 | Cholesky Decomposition | Factor a symmetric positive-definite NumPy matrix into a lower-triangular matrix and its transpose. | https://www.tensortonic.com/study-plans/math-linear-algebra/la-cholesky |
 | Implement Cosine Similarity | Compute cosine similarity between NumPy vectors with explicit handling for zero-norm inputs. | https://www.tensortonic.com/study-plans/math-linear-algebra/la-cosine-similarity |
